@@ -1,0 +1,196 @@
+2019-02-22 12:56:17,835 [main] INFO Actitime - URL opened
+2019-02-22 12:56:17,995 [main] INFO Actitime - Username successfully passed
+2019-02-22 12:56:18,131 [main] INFO Actitime - password successfully passed
+2019-02-22 12:56:18,283 [main] INFO Actitime - title varified
+2019-02-22 14:36:08,855 [main] INFO Actitime - URL opened
+2019-02-22 14:36:09,275 [main] INFO Actitime - Username successfully passed
+2019-02-22 14:36:09,444 [main] INFO Actitime - password successfully passed
+2019-02-22 14:36:09,627 [main] INFO Actitime - title varified
+2019-02-22 15:35:02,123 [main] INFO Actitime - URL opened
+2019-02-22 15:35:02,911 [main] INFO Actitime - Username successfully passed
+2019-02-22 15:35:03,016 [main] INFO Actitime - password successfully passed
+2019-02-22 15:35:03,164 [main] INFO Actitime - title varified
+2019-02-22 21:27:58,957 [main] INFO Actitime - URL opened
+2019-02-22 21:27:59,406 [main] INFO Actitime - Username successfully passed
+2019-02-22 21:27:59,501 [main] INFO Actitime - password successfully passed
+2019-02-22 21:27:59,752 [main] INFO Actitime - title varified
+2019-02-22 21:41:09,402 [main] INFO Actitime - URL opened
+2019-02-22 21:41:10,343 [main] INFO Actitime - Username successfully passed
+2019-02-22 21:41:10,440 [main] INFO Actitime - password successfully passed
+2019-02-22 21:41:10,744 [main] INFO Actitime - title varified
+2019-02-25 21:35:50,422 [main] INFO Actitime - username has been provided
+2019-02-25 21:35:50,766 [main] INFO Actitime - password provided
+2019-02-25 21:35:51,052 [main] INFO Actitime - right credential
+2019-02-25 21:35:52,982 [main] INFO Actitime - username has been provided
+2019-02-25 21:35:53,132 [main] INFO Actitime - password provided
+2019-02-25 21:35:53,283 [main] WARN Actitime - wrong credential
+2019-02-25 21:35:53,419 [main] INFO Actitime - username has been provided
+2019-02-25 21:35:53,489 [main] INFO Actitime - password provided
+2019-02-25 21:57:11,813 [main] INFO Actitime - username has been provided
+2019-02-25 21:57:12,068 [main] INFO Actitime - password provided
+2019-02-25 21:57:12,215 [main] INFO Actitime - right credential
+2019-02-25 21:57:22,907 [main] INFO Actitime - username has been provided
+2019-02-25 21:57:22,991 [main] INFO Actitime - password provided
+2019-02-25 21:57:23,163 [main] INFO Actitime - right credential
+2019-02-25 21:57:53,502 [main] INFO Actitime - username has been provided
+2019-02-25 21:57:53,578 [main] INFO Actitime - password provided
+2019-02-25 21:57:53,713 [main] WARN Actitime - wrong credential
+2019-02-25 22:00:14,975 [main] INFO Actitime - username has been provided
+2019-02-25 22:00:15,087 [main] INFO Actitime - password provided
+2019-02-25 22:00:15,239 [main] INFO Actitime - right credential
+2019-02-25 22:00:25,713 [main] INFO Actitime - username has been provided
+2019-02-25 22:00:25,788 [main] INFO Actitime - password provided
+2019-02-25 22:00:25,910 [main] INFO Actitime - right credential
+2019-02-25 22:00:56,115 [main] INFO Actitime - username has been provided
+2019-02-25 22:00:56,191 [main] INFO Actitime - password provided
+2019-02-25 22:00:56,346 [main] WARN Actitime - wrong credential
+2019-02-25 22:18:20,450 [main] INFO Actitime - username has been provided
+2019-02-25 22:18:20,629 [main] INFO Actitime - password provided
+2019-02-25 22:18:20,761 [main] INFO Actitime - right credential
+2019-02-25 22:18:30,513 [main] INFO Actitime - username has been provided
+2019-02-25 22:18:30,585 [main] INFO Actitime - password provided
+2019-02-25 22:18:30,691 [main] INFO Actitime - right credential
+2019-02-25 22:19:00,958 [main] INFO Actitime - username has been provided
+2019-02-25 22:19:01,050 [main] INFO Actitime - password provided
+2019-02-25 22:19:01,170 [main] WARN Actitime - wrong credential
+2019-02-26 14:05:49,864 [main] INFO Actitime - Login done successfully
+2019-02-26 14:05:57,713 [main] INFO Actitime - clicked on Task Button
+2019-02-26 14:05:57,884 [main] INFO Actitime - Clicked on add new Buton
+2019-02-26 14:05:57,993 [main] INFO Actitime - clicked in new customer
+2019-02-26 14:05:58,937 [main] INFO Actitime - customer name sent successfully
+2019-02-26 14:05:59,405 [main] INFO Actitime - customer disc sent successfully
+2019-02-26 14:05:59,526 [main] INFO Actitime - clicked on new customer button
+2019-02-26 14:05:59,526 [main] INFO Actitime - new customer has been created succesfully
+2019-02-26 14:08:56,553 [main] INFO Actitime - URL opened
+2019-02-26 14:08:56,679 [main] INFO Actitime - Username successfully passed
+2019-02-26 14:08:56,794 [main] INFO Actitime - password successfully passed
+2019-02-26 14:08:56,891 [main] INFO Actitime - title varified
+2019-02-26 14:09:23,214 [main] INFO Actitime - Login done successfully
+2019-02-26 14:09:31,151 [main] INFO Actitime - clicked on Task Button
+2019-02-26 14:09:31,369 [main] INFO Actitime - Clicked on add new Buton
+2019-02-26 14:09:31,482 [main] INFO Actitime - clicked in new customer
+2019-02-26 14:09:32,513 [main] INFO Actitime - customer name sent successfully
+2019-02-26 14:09:32,717 [main] INFO Actitime - customer disc sent successfully
+2019-02-26 14:09:32,847 [main] INFO Actitime - clicked on new customer button
+2019-02-26 14:09:32,847 [main] INFO Actitime - new customer has been created succesfully
+2019-02-26 14:12:43,314 [main] INFO Actitime - URL opened
+2019-02-26 14:12:43,399 [main] INFO Actitime - Username successfully passed
+2019-02-26 14:12:43,505 [main] INFO Actitime - password successfully passed
+2019-02-26 14:12:43,595 [main] INFO Actitime - title varified
+2019-02-26 14:13:00,364 [main] INFO Actitime - username has been provided
+2019-02-26 14:13:00,457 [main] INFO Actitime - password provided
+2019-02-26 14:13:00,742 [main] INFO Actitime - right credential
+2019-02-26 14:13:11,217 [main] INFO Actitime - username has been provided
+2019-02-26 14:13:11,290 [main] INFO Actitime - password provided
+2019-02-26 14:13:11,399 [main] INFO Actitime - right credential
+2019-02-26 14:13:41,593 [main] INFO Actitime - username has been provided
+2019-02-26 14:13:41,718 [main] INFO Actitime - password provided
+2019-02-26 14:13:41,843 [main] WARN Actitime - wrong credential
+2019-02-26 14:13:57,818 [main] INFO Actitime - Login done successfully
+2019-02-26 14:14:06,223 [main] INFO Actitime - clicked on Task Button
+2019-02-26 14:14:06,392 [main] INFO Actitime - Clicked on add new Buton
+2019-02-26 14:14:06,520 [main] INFO Actitime - clicked in new customer
+2019-02-26 14:14:07,283 [main] INFO Actitime - customer name sent successfully
+2019-02-26 14:14:07,671 [main] INFO Actitime - customer disc sent successfully
+2019-02-26 14:14:07,819 [main] INFO Actitime - clicked on new customer button
+2019-02-26 14:14:07,819 [main] INFO Actitime - new customer has been created succesfully
+2019-02-26 15:31:03,164 [main] INFO Actitime - username has been provided
+2019-02-26 15:31:03,271 [main] INFO Actitime - password provided
+2019-02-26 15:31:03,457 [main] INFO Actitime - right credential
+2019-02-26 15:31:13,384 [main] INFO Actitime - username has been provided
+2019-02-26 15:31:13,451 [main] INFO Actitime - password provided
+2019-02-26 15:31:13,561 [main] INFO Actitime - right credential
+2019-02-26 15:31:43,727 [main] INFO Actitime - username has been provided
+2019-02-26 15:31:43,819 [main] INFO Actitime - password provided
+2019-02-26 15:31:43,954 [main] WARN Actitime - wrong credential
+2019-02-26 15:44:00,483 [main] INFO Actitime - username has been provided
+2019-02-26 15:44:00,523 [main] INFO Actitime - password provided
+2019-02-26 15:44:00,793 [main] INFO Actitime - right credential
+2019-02-26 15:45:33,538 [main] INFO Actitime - username has been provided
+2019-02-26 15:45:33,737 [main] INFO Actitime - password provided
+2019-02-26 15:45:33,935 [main] INFO Actitime - right credential
+2019-02-26 15:45:44,826 [main] INFO Actitime - username has been provided
+2019-02-26 15:45:44,915 [main] INFO Actitime - password provided
+2019-02-26 15:45:45,052 [main] INFO Actitime - right credential
+2019-02-26 15:46:15,280 [main] INFO Actitime - username has been provided
+2019-02-26 15:46:15,501 [main] INFO Actitime - password provided
+2019-02-26 15:46:15,684 [main] WARN Actitime - wrong credential
+2019-02-26 19:20:06,951 [main] INFO Actitime - URL opened
+2019-02-26 19:20:08,190 [main] INFO Actitime - Username successfully passed
+2019-02-26 19:20:08,322 [main] INFO Actitime - password successfully passed
+2019-02-26 19:20:42,474 [main] INFO Actitime - username has been provided
+2019-02-26 19:20:42,576 [main] INFO Actitime - password provided
+2019-02-26 19:20:42,812 [main] INFO Actitime - right credential
+2019-02-26 19:20:52,460 [main] INFO Actitime - username has been provided
+2019-02-26 19:20:52,542 [main] INFO Actitime - password provided
+2019-02-26 19:20:52,687 [main] INFO Actitime - right credential
+2019-02-26 19:21:23,024 [main] INFO Actitime - username has been provided
+2019-02-26 19:21:23,168 [main] INFO Actitime - password provided
+2019-02-26 19:21:23,311 [main] WARN Actitime - wrong credential
+2019-02-26 19:22:03,037 [main] INFO Actitime - Login done successfully
+2019-02-26 19:22:10,931 [main] INFO Actitime - clicked on Task Button
+2019-02-26 19:22:11,117 [main] INFO Actitime - Clicked on add new Buton
+2019-02-26 19:22:11,282 [main] INFO Actitime - clicked in new customer
+2019-02-26 19:22:12,039 [main] INFO Actitime - customer name sent successfully
+2019-02-26 19:22:12,292 [main] INFO Actitime - customer disc sent successfully
+2019-02-26 19:22:12,427 [main] INFO Actitime - clicked on new customer button
+2019-02-26 19:22:12,427 [main] INFO Actitime - new customer has been created succesfully
+2019-02-27 21:05:03,553 [main] INFO Actitime - URL opened
+2019-02-27 21:05:03,894 [main] INFO Actitime - Username successfully passed
+2019-02-27 21:05:04,012 [main] INFO Actitime - password successfully passed
+2019-02-27 21:05:53,597 [main] INFO Actitime - username has been provided
+2019-02-27 21:05:53,690 [main] INFO Actitime - password provided
+2019-02-27 21:05:54,020 [main] INFO Actitime - right credential
+2019-02-27 21:06:12,947 [main] INFO Actitime - username has been provided
+2019-02-27 21:06:13,059 [main] INFO Actitime - password provided
+2019-02-27 21:06:13,266 [main] INFO Actitime - right credential
+2019-02-27 21:06:44,521 [main] INFO Actitime - username has been provided
+2019-02-27 21:06:44,993 [main] INFO Actitime - password provided
+2019-02-27 21:06:45,122 [main] WARN Actitime - wrong credential
+2019-02-27 21:07:12,861 [main] INFO Actitime - Login done successfully
+2019-02-27 21:07:25,173 [main] INFO Actitime - clicked on Task Button
+2019-02-27 21:07:25,316 [main] INFO Actitime - Clicked on add new Buton
+2019-02-27 21:07:25,447 [main] INFO Actitime - clicked in new customer
+2019-02-27 21:07:26,508 [main] INFO Actitime - customer name sent successfully
+2019-02-27 21:07:26,669 [main] INFO Actitime - customer disc sent successfully
+2019-02-27 21:07:26,818 [main] INFO Actitime - clicked on new customer button
+2019-02-27 21:07:26,818 [main] INFO Actitime - new customer has been created succesfully
+2019-02-27 21:55:05,117 [main] INFO Actitime - URL opened
+2019-02-27 21:55:06,214 [main] INFO Actitime - Username successfully passed
+2019-02-27 21:55:06,422 [main] INFO Actitime - password successfully passed
+2019-02-27 21:55:54,869 [main] INFO Actitime - username has been provided
+2019-02-27 21:55:55,230 [main] INFO Actitime - password provided
+2019-02-27 21:55:56,051 [main] INFO Actitime - right credential
+2019-02-27 21:56:11,133 [main] INFO Actitime - username has been provided
+2019-02-27 21:56:11,249 [main] INFO Actitime - password provided
+2019-02-27 21:56:11,376 [main] INFO Actitime - right credential
+2019-02-27 21:56:41,756 [main] INFO Actitime - username has been provided
+2019-02-27 21:56:41,863 [main] INFO Actitime - password provided
+2019-02-27 21:56:41,987 [main] WARN Actitime - wrong credential
+2019-02-27 21:57:09,955 [main] INFO Actitime - Login done successfully
+2019-02-27 21:57:21,632 [main] INFO Actitime - clicked on Task Button
+2019-02-27 21:57:21,825 [main] INFO Actitime - Clicked on add new Buton
+2019-02-27 21:57:21,994 [main] INFO Actitime - clicked in new customer
+2019-02-27 21:57:23,250 [main] INFO Actitime - customer name sent successfully
+2019-02-27 21:57:23,400 [main] INFO Actitime - customer disc sent successfully
+2019-02-27 21:57:23,495 [main] INFO Actitime - clicked on new customer button
+2019-02-27 21:57:23,495 [main] INFO Actitime - new customer has been created succesfully
+2019-02-27 22:04:04,289 [main] INFO Actitime - URL opened
+2019-02-27 22:04:04,473 [main] INFO Actitime - Username successfully passed
+2019-02-27 22:04:04,567 [main] INFO Actitime - password successfully passed
+2019-02-27 22:05:37,973 [main] INFO Actitime - URL opened
+2019-02-27 22:05:38,050 [main] INFO Actitime - Username successfully passed
+2019-02-27 22:05:38,157 [main] INFO Actitime - password successfully passed
+2019-02-27 22:05:38,249 [main] INFO Actitime - title varified
+2019-02-27 22:19:32,430 [main] INFO Actitime - URL opened
+2019-02-27 22:19:33,055 [main] INFO Actitime - Username successfully passed
+2019-02-27 22:19:33,146 [main] INFO Actitime - password successfully passed
+2019-02-27 22:19:33,358 [main] INFO Actitime - title varified
+2019-02-27 22:37:32,358 [main] INFO Actitime - URL opened
+2019-02-27 22:37:33,130 [main] INFO Actitime - Username successfully passed
+2019-02-27 22:37:33,220 [main] INFO Actitime - password successfully passed
+2019-02-27 22:37:34,834 [main] INFO Actitime - title varified
+2019-02-28 00:31:07,631 [main] INFO Actitime - URL opened
+2019-02-28 00:31:13,703 [main] INFO Actitime - Username successfully passed
+2019-02-28 00:31:13,894 [main] INFO Actitime - password successfully passed
+2019-02-28 00:31:14,584 [main] INFO Actitime - title varified
